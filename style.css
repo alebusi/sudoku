@@ -1,0 +1,42 @@
+.wrapper {
+    width: 99vw;
+    margin: 10vh auto;
+    background-color: white;
+}
+
+.bianco {
+    display: inline-block;
+    width: 10vw;
+    text-align: center;
+    font-family: Arial, Sans-Serif;
+    font-size: 6vw;
+    font-weight: bold;
+    letter-spacing: -2px;
+    padding: 2vw 0;
+    background-color: white;
+}
+
+.giallo {
+    display: inline-block;
+    width: 10vw;
+    text-align: center;
+    font-family: Arial, Sans-Serif;
+    font-size: 6vw;
+    font-weight: bold;
+    letter-spacing: -2px;
+    padding: 2vw 0;
+    background-color: yellow;
+}
+
+.griglia {
+    border-collapse: collapse;
+}
+
+.griglia td {
+   width: 31vw;
+   border: solid 1vw red;
+}
+
+.tastiera {
+  display: inline-block;
+}
