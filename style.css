@@ -1,6 +1,6 @@
 .wrapper {
-    width: 99vw;
-    margin: 10vh auto;
+    width: 97vw;
+    margin: 5vh auto;
     background-color: white;
 }
 
@@ -38,5 +38,21 @@
 }
 
 .tastiera {
-  display: inline-block;
+    width: 82vw;
+    margin: 5vw auto;
 }
+
+.tasto {
+    display: inline-block;
+    margin: 2vw;
+    width: 12vw;
+    text-align: center;
+    font-family: Arial, Sans-Serif;
+    font-size: 6vw;
+    font-weight: bold;
+    letter-spacing: -2px;
+    padding: 2vw 0;
+    background-color: white;
+}
+
+.tasto:hover {background-color: yellow;}
