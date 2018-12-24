@@ -1,6 +1,6 @@
 .wrapper {
     width: 99vw;
-    margin: 5vh auto;
+    margin: 3vh auto;
     background-color: white;
 }
 
@@ -39,7 +39,7 @@
 
 .tastiera {
     width: 82vw;
-    margin: 5vw auto;
+    margin: 2vh auto;
 }
 
 .tasto {
